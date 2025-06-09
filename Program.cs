@@ -48,7 +48,7 @@ Console.WriteLine("Enter details for order №3");
 Console.WriteLine();
 
 Console.Write("Client Name: ");
-clientName = Console.ReadLine();
+clientName = Console.ReadLine(); 
 
 Console.Write("Product Name: ");
 productName = Console.ReadLine();
@@ -63,5 +63,7 @@ string result3 = $"Order No 3\nClient: {clientName}.\nProduct: {productName}, pr
 Console.WriteLine();
 // Returning Results
 Console.WriteLine(result1);
+/*
 Console.WriteLine(result2);
 Console.WriteLine(result3);
+*/
