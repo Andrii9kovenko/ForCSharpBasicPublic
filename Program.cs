@@ -48,7 +48,7 @@ Console.WriteLine("Enter details for order №3");
 Console.WriteLine();
 
 Console.Write("Client Name: ");
-clientName = Console.ReadLine();
+clientName = Console.ReadLine(); 
 
 Console.Write("Product Name: ");
 productName = Console.ReadLine();
