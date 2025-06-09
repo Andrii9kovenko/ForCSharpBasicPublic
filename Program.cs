@@ -63,5 +63,7 @@ string result3 = $"Order No 3\nClient: {clientName}.\nProduct: {productName}, pr
 Console.WriteLine();
 // Returning Results
 Console.WriteLine(result1);
+/*
 Console.WriteLine(result2);
 Console.WriteLine(result3);
+*/
