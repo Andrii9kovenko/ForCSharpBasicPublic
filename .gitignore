@@ -1,0 +1,18 @@
+# Ігнорувати всі файли *.log
+*.log
+
+# Visual Studio cache / temporary files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+# Visual Studio 2017/2019 specific files
+.vscode/
+*.sln.docstates
+
+## more templates f
+#https://github.com/github/gitignore

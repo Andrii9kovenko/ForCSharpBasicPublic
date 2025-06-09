@@ -61,7 +61,7 @@ addressDelivery = Console.ReadLine();
 
 string result3 = $"Order No 3\nClient: {clientName}.\nProduct: {productName}, price {priceProduct} EUR.\nAddress: {addressDelivery}.\n";
 Console.WriteLine();
-// Returning Results
+// Returning Results debug problem
 Console.WriteLine(result1);
 /*
 Console.WriteLine(result2);
